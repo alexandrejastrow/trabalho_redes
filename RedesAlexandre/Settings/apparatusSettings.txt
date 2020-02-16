@@ -1,0 +1,9 @@
+<APPARATUS>
+	[APPARATUS_CODE]			= '1' - 'AIR CONDITIONING'
+	[VALUE_ON]					= '23' - '50'
+	[OFF_VALUE]					= '-20' - '20'
+[END]
+	[APPARATUS_CODE]			= '2' - 'LAMP'
+	[VALUE_ON]					= '0' - '1999'
+	[OFF_VALUE]					= '2000' - '4000'
+[END]

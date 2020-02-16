@@ -1,0 +1,12 @@
+<PLACES>
+[PLACE_CODE] 					=	'1' - 'CLASSROOM'
+[PLACE_CODE] 					=	'2' - 'HALLWAY'
+[PLACE_CODE] 					=	'3' - 'REFECTORY'
+[PLACE_CODE] 					=	'4' - 'RECEPTION'
+[PLACE_CODE] 					=	'5' - 'TEACHER ROOM'
+[PLACE_CODE] 					=	'6' - 'DIRECTOR ROOM'
+[PLACE_CODE] 					=	'7' - 'LIBRARY'
+[PLACE_CODE] 					=	'8' - 'AUDITORIUM'
+[PLACE_CODE] 					=	'9' - 'LABORATORY'
+[PLACE_CODE] 					=	'10' - 'PARKING'
+[END]

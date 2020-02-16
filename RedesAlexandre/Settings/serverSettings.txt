@@ -1,0 +1,14 @@
+<SETTINGS>
+[IP_SERVIDOR]					=	'192.168.10.107'
+[PORT_SERVIDOR]					=	'5001'
+[SERVER_RESPONSE]				=	'3600'
+[CONTROLLER_ERRO]               =   '2'
+[PACKET]						=	'8' - '!If'
+[MAX_PACKET_SIZE]				=	'256'
+[TEXT_SEPARATOR]				=	'|'
+[CHAVE:VALOR]                   =   ':'
+[END]
+<DANGERS>
+[DANGER_INCENDIO]				=	'1' - 'ALERTA DE INCENDIO'
+[SENSOR_ERRO_CODE]				=	'2' - 'ALERTA SENSOR DEFEITUOSO'
+[END]

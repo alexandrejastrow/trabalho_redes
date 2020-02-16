@@ -1,0 +1,9 @@
+<CONTROLLER>
+[IP_CONTROLLER]					=	'127.0.0.1'
+[PORT_SENSOR]					=	'15115'
+[SENSOR_RESPONSE]				=	'20'
+[SENSOR_RESPONSE_TOLERANCE]		=	'3'
+[DANGER]		            	=	'50' - '1'
+[SENSOR_ERRO]					=	'3'
+[PACKET]						=	'8' - '!IHe'
+[END]
